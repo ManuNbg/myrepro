@@ -1,0 +1,6 @@
+C:\Users\Emanuele.Acito\documents\visual studio 2015\Projects\ConsoleApplication\MeinErstesForms\bin\Debug\MeinErstesForms.exe.config
+C:\Users\Emanuele.Acito\documents\visual studio 2015\Projects\ConsoleApplication\MeinErstesForms\bin\Debug\MeinErstesForms.exe
+C:\Users\Emanuele.Acito\documents\visual studio 2015\Projects\ConsoleApplication\MeinErstesForms\bin\Debug\MeinErstesForms.pdb
+C:\Users\Emanuele.Acito\documents\visual studio 2015\Projects\ConsoleApplication\MeinErstesForms\obj\Debug\MeinErstesForms.csprojResolveAssemblyReference.cache
+C:\Users\Emanuele.Acito\documents\visual studio 2015\Projects\ConsoleApplication\MeinErstesForms\obj\Debug\MeinErstesForms.exe
+C:\Users\Emanuele.Acito\documents\visual studio 2015\Projects\ConsoleApplication\MeinErstesForms\obj\Debug\MeinErstesForms.pdb
